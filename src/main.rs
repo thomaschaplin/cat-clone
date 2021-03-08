@@ -19,6 +19,6 @@ fn main() -> Result<(), ExitFailure> {
 
 fn print_content(content: &str) -> () {
     for line in content.lines() {
-            println!("{}", line);
+        println!("{}", line);
     }
 }
