@@ -5,6 +5,6 @@ authors = ["Thomas Chaplin <thomaschaplin@outlook.com>"]
 edition = "2018"
 
 [dependencies]
-structopt = "0.3.19"
+structopt = "0.3.23"
 failure = "0.1.8"
 exitfailure = "0.5.1"
